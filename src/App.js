@@ -28,7 +28,12 @@ function App() {
           </div>
           <br />
           <small>
-            <a className="git-hub-link" href="/">
+            <a
+              className="git-hub-link"
+              href="https://github.com/anafmt/weather-app"
+              target="_blank"
+              rel="noreferrer"
+            >
               Open-source code{" "}
             </a>
             by Ana FM Tavares
