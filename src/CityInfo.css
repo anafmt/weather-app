@@ -1,0 +1,29 @@
+.sun-icon-top {
+  display: block;
+  margin: -60px auto;
+  color: rgb(130, 166, 170, 0.7);
+  position: relative;
+  top: 69px;
+  left: 23px;
+  font-size: 96px;
+}
+
+.temperature {
+  color: #272142;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 1;
+  margin-left: 27.5px;
+}
+
+h3 {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 29px;
+  margin: 20px 0 10px;
+}
+
+h6 {
+  position: relative;
+  top: -70px;
+}
